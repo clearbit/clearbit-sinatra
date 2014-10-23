@@ -1,0 +1,8 @@
+{
+  "name": "Clearbit sample",
+  "description": "A Clearbit app using Sinatra",
+  "repository": "https://github.com/clearbit/clearbit-sinatra",
+  "addons": [
+    "clearbit"
+  ]
+}
